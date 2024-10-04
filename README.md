@@ -150,13 +150,19 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT :
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/e0f9f87e-b114-4814-befd-d1a81690b856)
-![image](https://github.com/user-attachments/assets/ffb6626e-018e-483e-b82d-2a1f897a8a20)
+![Screenshot 2024-10-04 105318](https://github.com/user-attachments/assets/41a90586-7277-417a-8666-a5b6ecbe3e4d)
+
+![Screenshot 2024-10-04 105325](https://github.com/user-attachments/assets/a7391480-3b68-4634-8fb6-2fd98c0a894f)
+
 ### Histogram Plot
-![image](https://github.com/user-attachments/assets/e227ba95-8264-4bce-aefe-56106b8674ed)
+
+![Screenshot 2024-10-04 105304](https://github.com/user-attachments/assets/1cfda535-14d4-4f12-967b-b5c01a460a5b)
+
 
 ### Sample Text Prediction
-![image](https://github.com/user-attachments/assets/5e376606-c80f-499f-bd74-455ed95bff35)
+
+![Screenshot 2024-10-04 105334](https://github.com/user-attachments/assets/d1c92048-335c-497b-9d8a-44878629b6ea)
+
 
 
 
