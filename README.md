@@ -144,7 +144,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT :
 ### Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-10-18 111526](https://github.com/user-attachments/assets/2e14fb49-7544-4950-9665-a2e
+![Screenshot 2024-10-18 111526](https://github.com/user-attachments/assets/06e22722-41a8-4a99-a191-7a781fd2beea)
+
 ![Screenshot 2024-10-18 111735](https://github.com/user-attachments/assets/a5f490d2-d672-4e41-92a3-8016dd0e4dbf)
 02a03c6a4)
 
